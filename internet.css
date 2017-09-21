@@ -38,7 +38,7 @@
 #backcolor{
     width: 970px;
     height: 300px;
-    margin-top: 5px;
+    margin-top: 10px;
     background: linear-gradient(rgba(238, 238, 238, 0.66), white);    
 }
 #bottom h1{
@@ -92,7 +92,7 @@
     width: 210px;
     height: 250px;
     /* background-color: #274D72; */
-    margin: 30px 20px 20px 20px;
+    margin: 0px 20px 20px 20px;
     background-image: url(ad_background.png);
     padding-top: 15px;
 }
