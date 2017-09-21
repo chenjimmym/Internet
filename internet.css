@@ -1,0 +1,214 @@
+.container{
+    width: 1000px;
+    height: 800px;
+    /* background: linear-gradient(rgba(247, 247, 247, 0.57), white);     */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    width: 1000px;
+    height: 100px;
+    /* background-color: #DAC8C8; */
+}
+#top{
+    width: 1000px;
+    height: 55px;
+    margin: 0px 15px;
+    /* background-color: #CFDAA0; */
+}
+#top h1{
+    padding-top: 12px;
+    font-size: 35px;
+    display: inline-block;
+    vertical-align: top;
+    color: #2C2C2C;
+}
+#top h2{
+    padding-top: 12px;
+    font-size: 35px;
+    display: inline-block;
+    vertical-align: top;
+    color: #003CFF;
+}
+#bottom{
+    width: 970px;
+    height: 45px;
+    margin: 0px 15px;
+    background: linear-gradient(#0049B8, #5B82A8, #0049B8);
+}
+#backcolor{
+    width: 970px;
+    height: 300px;
+    margin-top: 5px;
+    background: linear-gradient(rgba(238, 238, 238, 0.66), white);    
+}
+#bottom h1{
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.side-box{
+    width: 250px;
+    height: 700px;
+    /* background-color: #85C8FF; */
+    display: inline-block;
+}
+#side-top{
+    width: 230px;
+    height: 230px;
+    padding: 10px;
+    /* background-color: #4170A0; */
+}
+#side-top a{
+    color: #9B0000;
+}
+#side-top h1{
+    font-size: 15px;
+    margin: 15px;
+}
+#side-top p{
+    font-size: 12px;
+    margin: 18px;
+}
+#side-top button{
+    margin-top: 2px;
+    display: block;
+    font-size: 20px;
+    border-radius: 8px;
+}
+#topbut{
+    background: linear-gradient(#0049B8, #5B82A8, #0049B8);
+    color: white;
+    margin-left: 20px;
+    padding: 2px 17px;
+}
+#botbut{
+    background: linear-gradient(#B85300, #FFBE5C, #B85300);
+    color: white;
+    margin-left: 20px;
+}
+#side-bot{
+    width: 210px;
+    height: 250px;
+    /* background-color: #274D72; */
+    margin: 30px 20px 20px 20px;
+    background-image: url(ad_background.png);
+    padding-top: 15px;
+}
+#side-bot h1{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+}
+#side-bot img{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
+#side-bot button{
+    background-color: #3BB4FF;
+    color: white;
+    margin-left: 35px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.main{
+    width: 740px;
+    height: 700px;
+    /* background-color: #A973FF; */
+    display: inline-block;
+    vertical-align: top;
+}
+.main a{
+    color: #2F71FF;
+}
+.main-top{
+    width: 740px;
+    height: 50px;
+    margin-top: 8px;
+    /* background-color: #8E5FD8; */
+}
+#main-dns{
+    width: 485px;
+    height: 50px;
+    /* background-color: #734CB3; */
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 15px;
+}
+#main-dns p{
+    display: inline;
+}
+#main-dns a{
+    color: #2E5FFF;
+}
+#main-contact{
+    width: 230px;
+    height: 50px;
+    /* background-color: #5B3C91; */
+    display: inline-block;
+}
+#main-contact-sub{
+    display: inline-block;
+}
+#main-contact h1{
+    font-size: 18px;
+    color: #0099B1;
+}
+#main-contact p{
+    font-size: 10px;
+}
+#main-info{
+    width: 710px;
+    height: 470px;
+    /* background-color: #442E70; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 30px;
+}
+#main-ad{
+    width: 670px;
+    height: 150px;
+    /* background-color: #37255A; */
+}
+#main-info h1{
+font-size: 20px;
+color: rgba(0, 89, 255, 0.73);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#main-info p{
+    margin-top: 12px;
+}
+#line{
+    margin: 0px;
+    font-size: 12px;
+}
+#main-info ul{
+    padding-top: 10px;
+    margin-left: 30px;
+    list-style: circle;
+}
+#main-info ol{
+    padding-top: 10px;
+    margin-left:30px;
+    list-style-type: decimal;
+}
+#main-info img{
+    margin-left: 150px;
+    display: inline-block;
+}
+#main-ad{
+    margin: 0px 20px;
+    border: 5px solid #0066FF;
+    padding: 15px;
+}
+#main-ad-content{
+    width: 500px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+}
+#main-ad-content h1{
+    font-size: 20px;
+    color: #0066FF;
+}
